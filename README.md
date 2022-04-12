@@ -1,2 +1,7 @@
 # snake_game
-Snake game with pygame and maybe a reinforcement after
+Snake game implemented with pygame nothing really special 
+
+
+
+# RL
+Using pytorch, a model was made
